@@ -1,0 +1,14 @@
+.place__link {
+  font-size: 18px;
+  line-height: 1.2;
+  color: inherit;
+}
+
+.place__link:hover,
+.place__link:focus {
+  opacity: .8;
+}
+
+.place__link:active {
+  opacity: .2;
+}

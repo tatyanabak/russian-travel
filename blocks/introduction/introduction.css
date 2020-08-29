@@ -1,0 +1,21 @@
+@import url(./__title/introduction__title.css);
+@import url(./__text/introduction__text.css);
+
+.introduction {
+  padding-top: 65px;
+  padding-bottom: 65px;
+}
+
+@media (min-width: 768px) {
+  .introduction {
+    padding-top: 85px;
+    padding-bottom: 85px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .introduction {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+}

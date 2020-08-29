@@ -1,0 +1,18 @@
+.lead__description {
+  margin-top: 15px;
+  margin-bottom: 40px;
+  padding-right: 15px;
+  padding-left: 15px;
+
+  line-height: 1.25;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .lead__description {
+    max-width: 600px;
+
+    font-size: 30px;
+    line-height: 1.2;
+  }
+}

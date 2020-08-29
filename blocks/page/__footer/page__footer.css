@@ -1,0 +1,25 @@
+.page__footer {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .page__footer {
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__footer {
+    width: 90%;
+    margin-right: auto;;
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 1280px) {
+  .page__footer {
+    width: 1185px;
+  }
+}

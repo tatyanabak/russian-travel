@@ -1,0 +1,18 @@
+.lead__img-wrapper {
+  margin: 0;
+}
+
+@media (min-width: 1024px) {
+  .lead__img-wrapper {
+    max-width: 985px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .lead__img-wrapper {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

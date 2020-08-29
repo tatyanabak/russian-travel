@@ -1,0 +1,9 @@
+.introduction__text {
+  margin-bottom: 40px;
+}
+
+@media (min-width: 1024px) {
+  .introduction__text {
+    width: 690px;
+  }
+}

@@ -1,0 +1,20 @@
+.page__introduction {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .page__introduction {
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__introduction {
+    width: 90%;
+    max-width: 985px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}

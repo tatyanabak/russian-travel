@@ -1,0 +1,17 @@
+@import url(./__header/page__header.css);
+@import url(./__introduction/page__introduction.css);
+@import url(./__photo-grid/page__photo-grid.css);
+@import url(./__place/page__place.css);
+@import url(./__cover/page__cover.css);
+@import url(./__footer/page__footer.css);
+
+.page {
+  min-width: 320px;
+
+  font-size: 16px;
+  line-height: 1.63;
+  font-family: "Inter", "Arial", sans-serif;
+  color: #fff;
+
+  background-color: #2a2c2f;
+}

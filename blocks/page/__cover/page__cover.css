@@ -1,0 +1,24 @@
+.page__cover {
+  height: 200px;
+}
+
+@media (min-width: 768px) {
+  .page__cover {
+    height: 480px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__cover {
+    height: 640px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .page__cover {
+    width: 1185px;
+    height: 740px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}

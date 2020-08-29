@@ -1,0 +1,29 @@
+.page__header {
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-bottom: 50px;
+  margin-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .page__header {
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__header {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 1280px) {
+  .page__header {
+    max-width: 1185px;
+    margin-bottom: 55px;
+  }
+}

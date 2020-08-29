@@ -1,0 +1,29 @@
+.page__photo-grid {
+  margin-right: 15px;
+  margin-bottom: 40px;
+  margin-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .page__photo-grid {
+    margin-right: 25px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__photo-grid {
+    width: 90%;
+    max-width: 985px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 1280px) {
+  .page__photo-grid {
+    width: 93%;
+    max-width: 1185px;
+  }
+}

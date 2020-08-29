@@ -1,0 +1,19 @@
+.page__place {
+  margin-bottom: 40px;
+}
+
+@media (min-width: 768px) {
+  .page__place {
+    margin-right: 25px;
+    margin-left: 25px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__place {
+    width: 90%;
+    max-width: 985px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}

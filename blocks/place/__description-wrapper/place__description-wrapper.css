@@ -1,0 +1,13 @@
+.place__description-wrapper {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .place__description-wrapper {
+    padding-right: 0;
+    padding-left: 0;
+
+    grid-area: description-wrapper;
+  }
+}

@@ -1,0 +1,14 @@
+.place__url {
+  margin-bottom: 10px;
+
+  font-size: 12px;
+  line-height: 1;
+  color: #aaa;
+  text-transform: uppercase;
+}
+
+@media (min-width: 1024px) {
+  .place__url {
+    line-height: 1.7;
+  }
+}

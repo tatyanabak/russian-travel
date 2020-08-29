@@ -1,0 +1,33 @@
+.cover__description {
+  z-index: 2;
+
+  width: 290px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: center;
+  color: #ffffff;
+}
+
+@media (min-width: 768px) {
+  .cover__description {
+    width: 47%;
+
+    font-size: 18px;
+    line-height: 1.2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cover__description {
+    width: 35%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .cover__description {
+    width: 30%;
+  }
+}

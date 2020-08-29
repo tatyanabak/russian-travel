@@ -1,0 +1,15 @@
+.place__website {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .place__website {
+    display: flex;
+    flex-direction: column;
+    align-self: end;
+    margin-top: 0;
+    margin-bottom: 0;
+
+    grid-area: website;
+  }
+}
