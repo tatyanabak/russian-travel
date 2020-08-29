@@ -5,7 +5,7 @@
   font-size: 10px;
   line-height: 1.4;
   text-transform: uppercase;
-  letter-spacing: .15em;
+  letter-spacing: 0.15em;
 }
 
 @media (min-width: 768px) {

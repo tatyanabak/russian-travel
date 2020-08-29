@@ -1,6 +1,6 @@
 .lead__description {
   margin-top: 15px;
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   padding-right: 15px;
   padding-left: 15px;
 
@@ -11,6 +11,7 @@
 @media (min-width: 768px) {
   .lead__description {
     max-width: 600px;
+    margin-bottom: 55px;
 
     font-size: 30px;
     line-height: 1.2;

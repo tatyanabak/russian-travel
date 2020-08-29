@@ -1,10 +1,11 @@
 .page__place {
-  margin-bottom: 40px;
+  margin-bottom: 65px;
 }
 
 @media (min-width: 768px) {
   .page__place {
     margin-right: 25px;
+    margin-bottom: 95px;
     margin-left: 25px;
   }
 }

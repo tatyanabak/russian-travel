@@ -13,6 +13,7 @@
 @media (min-width: 768px) {
   .lead__title {
     max-width: 720px;
+    margin-bottom: 10px;
 
     font-size: 96px;
     line-height: 1.04;
